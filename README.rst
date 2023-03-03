@@ -41,14 +41,28 @@ First start
 to Retrieve the project :  
 
 .. code-block:: sh
-
     git clone https://github.com/NathanSepul/Tutorial-Appollo.git
 
-Place you at the root of flutter folder ``tutoral_appollo`` and, if it not already,done connect you to appollo.
+Place you at the root of flutter folder ``tutoral_appollo`` and, if it not already done, connect you to appollo.
 
 .. code-block:: sh
-
     appollo signin
+
+|
+
+Link your developer account to Appollo
+
+.. code-block:: sh
+    appollo apple add
+
+|
+
+Create an app identifier
+
+.. code-block:: sh
+    appollo app mk
+
+|
 
 When it is done you can launch the configuration build
 
