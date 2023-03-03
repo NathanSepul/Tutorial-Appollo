@@ -18,6 +18,7 @@ Appollo's install
 
 .. code-block::
     pip install appollo
+
 |
 
 If it is your first time using Appollo, create an Appollo account by running :
