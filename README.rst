@@ -15,13 +15,13 @@ For Appollo to work you will need :
 -----------------
 Appollo's install
 -----------------
-
+To install appollo run this command :  
 .. code-block::
     pip install appollo
 
 |
 
-If it is your first time using Appollo, create an Appollo account by running :
+If it is your first time using Appollo, create an Appollo account by running :  
 .. code-block::
     appollo signup
 
