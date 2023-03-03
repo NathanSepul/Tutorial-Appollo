@@ -23,6 +23,12 @@ To install appollo run this command :
 
 |
 
+.. note:: 
+
+    Once installed we can easily run the CLI in the terminal ``appollo`` and you should get the ``help`` output of the terminal.
+
+|
+
 If it is your first time using Appollo, create an Appollo account by running :  
 
 .. code-block::
@@ -31,8 +37,6 @@ If it is your first time using Appollo, create an Appollo account by running :
 
 |
 
-.. note:: 
-    Once installed we can easily run the CLI in the terminal `$ appollo` and you should get the `help` output of the terminal.
 
 ----------------
 Retrieve project
