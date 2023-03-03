@@ -17,21 +17,20 @@ Appollo's install
 -----------------
 To install appollo run this command :  
 
-.. code-block::
+.. code-block:: sh
 
     pip install appollo
 
 |
 
 .. note:: 
-
     Once installed we can easily run the CLI in the terminal ``appollo`` and you should get the ``help`` output of the terminal.
 
 |
 
 If it is your first time using Appollo, create an Appollo account by running :  
 
-.. code-block::
+.. code-block:: sh
 
     appollo signup
 
