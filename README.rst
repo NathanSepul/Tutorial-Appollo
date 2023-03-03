@@ -41,11 +41,13 @@ First start
 to Retrieve the project :  
 
 .. code-block:: sh
+
     git clone https://github.com/NathanSepul/Tutorial-Appollo.git
 
 Place you at the root of flutter folder ``tutoral_appollo`` and, if it not already done, connect you to appollo.
 
 .. code-block:: sh
+
     appollo signin
 
 |
@@ -53,6 +55,7 @@ Place you at the root of flutter folder ``tutoral_appollo`` and, if it not alrea
 Link your developer account to Appollo
 
 .. code-block:: sh
+
     appollo apple add
 
 |
@@ -60,6 +63,7 @@ Link your developer account to Appollo
 Create an app identifier
 
 .. code-block:: sh
+    
     appollo app mk
 
 |
