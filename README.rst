@@ -61,8 +61,7 @@ If your buid has succeeded your receive connection settings and credentials for 
 * **url** and **connection_password** for spice connection
 * **user** and **user_password** on remote desktop 
 
-.. warning:: 
-    When the build is succeeded the remote desktop is usable during 30'
+.. warning::  When the build is succeeded the remote desktop is usable during 30'
 
 Now you can launch your software, it is named RemoteViewer on your computer, with the url and connection_password to connect to the remote desktop.
 
