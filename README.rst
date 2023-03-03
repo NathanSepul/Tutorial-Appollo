@@ -11,6 +11,7 @@ For Appollo to work you will need :
 
 * `Python <https://www.python.org/downloads/>`_ 3.6 or higher.
 * `PIP <https://pypi.org/project/pip/>`_.
+* An `Apple Developer Account <https://developer.apple.com>`_ and `Apple API key <https://appstoreconnect.apple.com/login>`_.
 * Spice-Space's `client <https://www.spice-space.org/download.html>`_.
 
 -----------------
@@ -34,6 +35,28 @@ If it is your first time using Appollo, create an Appollo account by running :
 
     appollo signup
 
+|
+
+Link your developer account to Appollo
+
+.. code-block:: sh
+
+    appollo apple add
+
+or
+
+.. code-block:: sh
+    appollo apple add --apple-id TEXT --name TEXT --key-id TEXT --issuer-id TEXT --private-key FILE
+
+|
+
+Create an app identifier
+
+.. code-block:: sh
+
+    appollo app mk
+
+|
 -----------
 First start
 -----------
@@ -54,23 +77,7 @@ Place you at the root of flutter folder ``tutoral_appollo`` and, if it not alrea
 
 |
 
-Link your developer account to Appollo
-
-.. code-block:: sh
-
-    appollo apple add
-
-|
-
-Create an app identifier
-
-.. code-block:: sh
-
-    appollo app mk
-
-|
-
-When it is done you can launch the configuration build
+When it is done you can launch the configuration build and select your project
 
 .. code-block:: sh
 
