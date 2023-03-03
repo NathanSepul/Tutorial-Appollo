@@ -37,19 +37,24 @@ If it is your first time using Appollo, create an Appollo account by running :
 |
 
 
-----------------
-Retrieve project
-----------------
-
-to Retrieve the project :  
-
-.. code-block::
-
-    git clone https://github.com/NathanSepul/Tutorial-Appollo.git
-
-
 -----------
 First start
 -----------
 
-Place you in flutter folder ``tutoral_appollo`` and if it not already not connect you to appollo
+to Retrieve the project :  
+
+.. code-block:: sh
+
+    git clone https://github.com/NathanSepul/Tutorial-Appollo.git
+
+Place you at the root of flutter folder ``tutoral_appollo`` and, if it not already,done connect you to appollo.
+
+.. code-block:: sh
+
+    appollo signin
+
+When it is done you can launch the configuration build
+
+.. code-block:: sh
+
+    appollo build start --build-type configuration
