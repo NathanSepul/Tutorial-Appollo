@@ -23,8 +23,7 @@ To install appollo run this command :
 
 |
 
-.. note:: 
-    Once installed we can easily run the CLI in the terminal ``appollo`` and you should get the ``help`` output of the terminal.
+.. note:: Once installed we can easily run the CLI in the terminal ``appollo`` and you should get the ``help`` output of the terminal.
 
 |
 
