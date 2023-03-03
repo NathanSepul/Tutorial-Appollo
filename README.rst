@@ -61,7 +61,7 @@ After create your application you receive the key linked with it (you will need 
 First start
 -----------
 
-to Retrieve the project :  
+To retrieve the project
 
 .. code-block:: sh
 
