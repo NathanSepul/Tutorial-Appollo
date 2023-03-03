@@ -11,7 +11,7 @@ For Appollo to work you will need :
 
 * `Python <https://www.python.org/downloads/>`_ 3.6 or higher.
 * `PIP <https://pypi.org/project/pip/>`_.
-* An `Apple Developer Account <https://developer.apple.com>`_ and `Apple API key <https://appstoreconnect.apple.com/login>`_.
+* An `Apple Developer Account <https://developer.apple.com>`_.
 * Spice-Space's `client <https://www.spice-space.org/download.html>`_.
 
 -----------------
@@ -37,19 +37,15 @@ If it is your first time using Appollo, create an Appollo account by running :
 
 |
 
-Link your developer account to Appollo
+Link your developer account to Appollo, you will need your team ID, Issuer ID, key ID, and API key file
 
 .. code-block:: sh
 
-    appollo apple add
-
-or
-
-.. code-block:: sh
-    
     appollo apple add --apple-id TEXT --name TEXT --key-id TEXT --issuer-id TEXT --private-key FILE
 
 |
+
+When the linking is done you receive the Appollo Key
 
 Create an app identifier
 
@@ -58,6 +54,9 @@ Create an app identifier
     appollo app mk
 
 |
+
+After create your application you receive the key linked with it (you will need in the second section)
+
 -----------
 First start
 -----------
@@ -82,7 +81,7 @@ When it is done you can launch the configuration build and select your project
 
 .. code-block:: sh
 
-    appollo build start --build-type configuration
+    appollo build start --build-type configuration AppolloKey
 
 If your buid has succeeded your receive connection settings and credentials for the remote connection with Spice
 
