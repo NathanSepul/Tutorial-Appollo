@@ -29,6 +29,11 @@ If it is your first time using Appollo, create an Appollo account by running :
 
     appollo signup
 
+|
+
+.. note:: 
+    Once installed we can easily run the CLI in the terminal `$ appollo` and you should get the `help` output of the terminal.
+
 ----------------
 Retrieve project
 ----------------
