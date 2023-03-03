@@ -54,3 +54,8 @@ When it is done you can launch the configuration build
 .. code-block:: sh
 
     appollo build start --build-type configuration
+
+If your buid has succeeded your receive connection settings and credentials for a remote connection with Spice
+
+* *url* and *password* for spice connection
+* *username* and **password** on the virtual machine
