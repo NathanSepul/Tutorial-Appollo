@@ -4,9 +4,9 @@ Quick start Appollo
 
 A little project to discover `Appollo <https://appollo.readthedocs.io/en/master/index.html>`_.
 
-------------
-Prerequisite
-------------
+-------------
+Prerequisites
+-------------
 For Appollo to work you will need : 
 
 * `Python <https://www.python.org/downloads/>`_ 3.6 or higher,
