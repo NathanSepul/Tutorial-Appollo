@@ -46,6 +46,7 @@ Link your developer account to Appollo
 or
 
 .. code-block:: sh
+    
     appollo apple add --apple-id TEXT --name TEXT --key-id TEXT --issuer-id TEXT --private-key FILE
 
 |
