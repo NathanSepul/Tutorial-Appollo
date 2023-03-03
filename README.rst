@@ -41,7 +41,10 @@ If it is your first time using Appollo, create an Appollo account by running :
 Retrieve project
 ----------------
 
+to Retrieve the project :  
+
 .. code-block::
+
     git clone https://github.com/NathanSepul/Tutorial-Appollo.git
 
 
@@ -49,4 +52,4 @@ Retrieve project
 First start
 -----------
 
-Place you in flutter folder `tutoral _appollo` and launch the
+Place you in flutter folder ``tutoral_appollo`` and if it not already not connect you to appollo
