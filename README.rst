@@ -102,3 +102,8 @@ When your are logged on remote desktop, follow these 4 easy steps :
 4. Enjoy your application
 
  
+-------------
+Documentation
+-------------
+
+If you want complet documentation or learn more about Appollo, I invite you to visit the `Appllo documentation <https://appollo.readthedocs.io/en/master/index.html#>`_
