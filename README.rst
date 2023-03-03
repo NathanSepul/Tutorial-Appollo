@@ -1,7 +1,7 @@
 ====================
 Quick start Appollo
 ====================
-Below you will find a quick start project to discorver `Appollo <https://appollo.readthedocs.io/en/master/index.html>`_. The flutter project in the repository is the project exemple, the flutter counter.
+Below you will find a quick start project to discorver `Appollo <https://github.com/Appollo-CLI/Appollo>`_. The flutter project in the repository is the project exemple, the flutter counter.
 
 -------------
 Prerequisites
