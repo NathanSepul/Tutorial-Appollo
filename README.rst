@@ -34,9 +34,6 @@ If it is your first time using Appollo, create an Appollo account by running :
 
     appollo signup
 
-|
-
-
 -----------
 First start
 -----------
