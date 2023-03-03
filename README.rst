@@ -81,7 +81,7 @@ When it is done you can launch the configuration build and select your project
 
 .. code-block:: sh
 
-    appollo build start --build-type configuration AppolloKey
+    appollo build start --build-type configuration APPLICATION_KEY
 
 If your buid has succeeded your receive connection settings and credentials for the remote connection with Spice
 
