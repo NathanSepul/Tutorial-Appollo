@@ -54,7 +54,7 @@ Create an app identifier
 
 |
 
-After create your application you receive the key linked with it (you will need in the second section)
+After create your application you receive the KEY linked with it (you will need in the second section)
 
 -----------
 First start
