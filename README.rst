@@ -11,7 +11,7 @@ For Appollo to work you will need :
 * `Python <https://www.python.org/downloads/>`_ 3.6 or higher.
 * `PIP <https://pypi.org/project/pip/>`_.
 * An `Apple Developer Account <https://developer.apple.com>`_.
-* Spice-Space's `client <https://www.spice-space.org/download.html>`_.
+* A VNC viewer or `RustDesk <https://rustdesk.com/>`_
 
 -----------------
 Appollo's install
@@ -84,12 +84,17 @@ When it is done you can launch the configuration build and select your project
 
 If your buid has succeeded your receive connection settings and credentials for the remote connection with Spice
 
-* **url** and **connection_password** for spice connection
-* **user** and **user_password** on remote desktop 
+* **RustDesk relay server**, **RustDesk ID** and **RustDesk password**
 
-.. warning::  When the build is succeeded the remote desktop is usable during 30'
+* **VNV url** 
 
-Now you can launch your software, it is named RemoteViewer on your computer, with the url and connection_password to connect to the remote desktop.
+* **user** and **user_password** for the remote desktop 
+
+|
+
+.. warning::  When the build is succeeded the remote desktop is usable during 1hour
+
+Now you can launch your vnc viewer or RustDesk, if you use RustDesk don't forget change the relay server.
 
 |
 
@@ -100,7 +105,23 @@ When your are logged on remote desktop, follow these 4 easy steps :
 3. Select file Documents/app/ios/Runner.xcworkspace
 4. Enjoy your application
 
- 
+|
+
+To test your flutter app in iOS simulator on de the remote desktop place you in application folder with the terminal
+
+.. code-block:: sh
+
+    cd ~/Documents/app
+
+|
+
+and lauch the flutter run command
+
+.. code-block:: sh
+
+    flutter run
+
+
 -------------
 Documentation
 -------------
