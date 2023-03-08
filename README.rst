@@ -94,7 +94,7 @@ If your buid has succeeded your receive connection settings and credentials for 
 
 .. warning::  When the build is succeeded the remote desktop is usable during 1hour
 
-Now you can launch your vnc viewer or RustDesk, if you use RustDesk don't forget change the relay server and set the screen's quality on *optimise reaction time *
+Now you can launch your vnc viewer or RustDesk, if you use RustDesk don't forget change the relay server and set the screen's quality on *optimise reaction time*
 
 |
 
