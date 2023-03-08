@@ -86,7 +86,7 @@ If your buid has succeeded your receive connection settings and credentials for 
 
 * **RustDesk relay server**, **RustDesk ID** and **RustDesk password**
 
-* **VNV url** 
+* **vnc url** 
 
 * **user** and **user_password** for the remote desktop 
 
