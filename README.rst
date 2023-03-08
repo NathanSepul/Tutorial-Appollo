@@ -103,7 +103,7 @@ When your are logged on remote desktop, follow these 4 easy steps :
 1. Open Xcode
 2. Select Open an existing project
 3. Select file Documents/app/ios/Runner.xcworkspace
-4. Enjoy your application
+4. In the left menu of XCode select Runner and in the General tab under Identity update Bundle Identifier with the bundle ID generated beforehand.
 
 |
 
@@ -115,7 +115,7 @@ To test your flutter app in iOS simulator on de the remote desktop place you in 
 
 |
 
-and lauch the flutter run command
+And lauch the flutter run command
 
 .. code-block:: sh
 
